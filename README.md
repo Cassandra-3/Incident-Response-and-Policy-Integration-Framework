@@ -1,7 +1,6 @@
 # Incident-Response-and-Policy-Integration-Framework 
 
-**Disclaimer:
-This project is purely fictional and created for educational purposes only. It is not affiliated with, endorsed by, or representative of Canadian Tire Corporation(CTC) or any of its subsidiaries. All scenarios, policies, and data mentioned in this project are entirely hypothetical.**
+**For Educational Purposes Only – This project is fictional and not affiliated with Canadian Tire Corporation.**
 
 ---
 
