@@ -1,4 +1,4 @@
-# **CTC Security Policies**
+# [**CTC Security Policies**](https://drive.google.com/file/d/1LYPSkokupyz2pgotd-x5m4KwGgUwo7wN/view?usp=drive_link)
 **For Educational Purposes Only – This project is fictional and not affiliated with Canadian Tire Corporation.**
 
 ---
