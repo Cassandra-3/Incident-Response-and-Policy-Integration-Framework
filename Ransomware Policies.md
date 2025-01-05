@@ -1,4 +1,4 @@
-# **Incident Response Plan, Playbook, and Policy**
+# [**Ransomeware Policies**](https://docs.google.com/document/d/1WSUAuyJ2GW7GnF7D4xHiZ1vn_w_Sg6sG/edit?usp=drive_link&ouid=113853961191236818711&rtpof=true&sd=true)
 **For Educational Purposes Only – This project is fictional and not affiliated with Canadian Tire Corporation.**
 
 ---
