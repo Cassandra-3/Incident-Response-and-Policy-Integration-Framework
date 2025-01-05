@@ -1,4 +1,4 @@
-# **Incident Response Plan**
+# [**Ransomware Incident Response Playbook**](https://docs.google.com/document/d/1FRm5g5EF321B_ZOPz8YvEEX5yEz2LL3q/edit?usp=drive_link&ouid=113853961191236818711&rtpof=true&sd=true)
 **For Educational Purposes Only – This project is fictional and not affiliated with Canadian Tire Corporation.**
 
 ---
