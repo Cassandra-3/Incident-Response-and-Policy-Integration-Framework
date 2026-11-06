@@ -1,68 +1,69 @@
-# Incident-Response-and-Policy-Integration-Framework 
+# Incident Response and Policy Integration Framework
 
-**For Educational Purposes Only – This project is fictional and not affiliated with Canadian Tire Corporation.**
+An academic design project connecting a fictional ransomware-response playbook with supporting policy outlines and communication requirements.
 
----
+**Project type:** Individual academic design project  
+**Program:** Lighthouse Labs Cybersecurity Diploma  
+**Scope:** Playbook, policy, and communication design; not a production deployment  
+**Organization:** Fictional classroom scenario
 
-## **Project Overview**
-This project focuses on developing a **comprehensive Incident Response Framework** for the fictional organization, Canadian Tire Corporation (CTC). It integrates a detailed **Ransomware Incident Response Playbook** with high-level organizational **security policies** to ensure swift, structured, and compliant responses to cybersecurity incidents. The framework minimizes operational disruptions, protects sensitive data, and fosters regulatory compliance.
+## Project overview
 
----
+The project explores how organizational policies can support a repeatable ransomware-response process. It connects high-level expectations with operational activities covering preparation, detection and analysis, containment, eradication, recovery, communication, and post-incident improvement.
 
-## **Key Components**
+The deliverables are templates and design artifacts. They were not implemented or tested in a live organization.
 
-### **1. Ransomware Incident Response Playbook**
-The playbook is aligned with the **NIST 7-Step Incident Response Process (PICERL)** and serves as the operational foundation for managing ransomware incidents.
+## Key components
 
-- **Purpose**: Provides actionable steps for detecting, containing, eradicating, and recovering from ransomware threats.
-- **Details Include**:
-  - **Preparation**: Offline backups, anti-ransomware tools, and regular training.
-  - **Detection & Containment**: Indicators of compromise (IoCs), isolation protocols, and sinkholing techniques.
-  - **Eradication & Recovery**: Trusted decryption tools, system restoration from backups, and integrity checks.
-  - **Post-Incident Review**: Lessons learned and playbook updates for future preparedness.
+### Ransomware incident-response playbook
 
-### **2. Security Policies**
-High-level policies support and guide the playbook’s operational aspects.
+The playbook organizes proposed activities across the incident lifecycle:
 
-- **Malware Outbreak Response Policy**: Focuses on rapid containment, eradication, and recovery from ransomware attacks.
-- **Data Breach Management Policy**: Mandates timely identification, containment, and notification of stakeholders when Personally Identifiable Information (PII) is compromised.
-- **Log Retention and Analysis Policy**: Establishes guidelines for retaining logs for 12 months, weekly reviews, and immediate forensic analysis during incidents.
+- **Preparation:** roles, backups, training, contact information, and readiness requirements
+- **Detection and analysis:** initial triage, indicators, validation, documentation, and escalation
+- **Containment:** isolation decisions, evidence preservation, and coordination
+- **Eradication:** removal of malicious artifacts and correction of contributing weaknesses
+- **Recovery:** restoration, validation, monitoring, and return-to-service decisions
+- **Post-incident improvement:** lessons learned, corrective actions, and playbook updates
 
-Each policy outlines **why it’s critical**, the **activities required**, and the **consequences of non-compliance** for both individuals and the organization.
+This public description uses lifecycle terminology rather than claiming a formal "NIST seven-step" process. NIST SP 800-61 organizes incident handling differently, while PICERL is commonly associated with another incident-response model.
 
----
+### Supporting policy outlines
 
-## **Integration and Alignment**
+- **Malware Outbreak Response:** proposed expectations for reporting, containment, recovery, and coordination
+- **Data Breach Management:** proposed considerations for identifying affected information, escalating concerns, and involving appropriate privacy or legal stakeholders
+- **Log Retention and Analysis:** proposed responsibilities for collecting, protecting, retaining, reviewing, and using security-relevant logs
 
-1. **Policy-Playbook Connection**:
-   Each policy directly links to the playbook’s actionable steps, aligning strategic objectives with operational execution.
-   - Example: The **Malware Outbreak Response Policy** mandates containment procedures detailed in the playbook.
+Any example retention period or review frequency in the classroom artifacts should be treated as illustrative. A real organization would determine requirements through legal, regulatory, contractual, operational, and risk analysis.
 
-2. **Compliance and Reporting**:
-   The framework adheres to **PIPEDA**, PCI DSS, and other regulatory requirements, with escalation and reporting templates for both internal and external stakeholders.
+### Communication and escalation
 
-3. **Communication Plan**:
-   Internal and external communication strategies ensure stakeholders are informed promptly and accurately during incidents.
+The project includes concepts for:
 
----
+- internal incident escalation;
+- technical and management updates;
+- coordination across security, IT, legal, privacy, communications, and business stakeholders; and
+- documentation for post-incident review.
 
-## **Benefits of the Framework**
+## Policy-to-playbook integration
 
-- **Operational Continuity**: Minimizes downtime during ransomware incidents through tested response strategies.
-- **Data Protection**: Safeguards sensitive customer and corporate data while maintaining compliance with privacy regulations.
-- **Enhanced Accountability**: Clearly defined roles and responsibilities ensure effective coordination among teams.
-- **Proactive Resilience**: Regular updates, simulations, and post-incident reviews maintain the playbook’s relevance and effectiveness.
+The design demonstrates how policies can define expectations while a playbook provides actionable response guidance. For example, a malware-response policy may require prompt reporting and containment, while the playbook identifies the roles, decision points, evidence needs, and communication steps used to carry out those expectations.
 
----
+## Deliverables and skills demonstrated
 
-## **Deliverables**
+- Ransomware playbook design
+- Security-policy drafting
+- Incident lifecycle documentation
+- Roles and responsibilities
+- Escalation and communication planning
+- Policy-to-process mapping
+- Technical and non-technical writing
+- Post-incident improvement planning
 
-1. **Incident Response Playbook**: A detailed operational guide following the NIST 7-step process.
-2. **Policy Set**: High-level outlines for malware response, data breach management, and log analysis.
-3. **Educational Slideshow**: Communicating policies and their importance to employees, ensuring organization-wide awareness and compliance.
+## Scope and limitations
 
----
-
-### **Disclaimer**
-This project is purely fictional and created for educational purposes only. It is not affiliated with, endorsed by, or representative of Canadian Tire Corporation or any of its subsidiaries. Any references to organizations, policies, or scenarios are hypothetical and not intended to reflect real-world practices.
-
+- This is a fictional academic project.
+- The playbook and policies were not deployed, exercised, or validated in a production environment.
+- The project does not demonstrate compliance with PIPEDA, PCI DSS, or another law, regulation, or standard.
+- Legal and regulatory obligations would require review by qualified organizational stakeholders.
+- Any reference to a real company in the original classroom scenario does not indicate affiliation, endorsement, or an assessment of that company.
